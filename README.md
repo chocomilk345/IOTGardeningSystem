@@ -10,10 +10,10 @@
 2. AIoT 기술을 활용하여 자동화 및 최적의 재배 환경 제공
 
 ## Developemnt environment
-![poster](env.png)
+<img src="env.png" alt="poster" width="80%">
 
 ## System FlowChart
-![poster](flowchart.png)
+<img src="flowchart.png" alt="poster" width="80%">
 
 ## How to Run
 1. Raspberry에서 iot_server 구동
