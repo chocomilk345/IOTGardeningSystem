@@ -1,5 +1,5 @@
 # IOTGardeningSystem mini-project
-AIoT 기술을 활용한 홈가드닝 자동화 시스템
+IoT 기술을 활용한 홈가드닝 자동화 시스템
 
 ## Team members
 1. 김윤우
@@ -9,7 +9,7 @@ AIoT 기술을 활용한 홈가드닝 자동화 시스템
 1. 자동화된 홈가드닝 시스템 
    - 조도, 온/습도, 토양습도 확인
    - 원격 모니터링, 원격 제어
-2. AIoT 기술을 활용하여 자동화 및 최적의 재배 환경 제공
+2. IoT 기술을 활용하여 자동화 및 최적의 재배 환경 제공
 
 ## Developemnt Environment
 <img src="env.png" alt="poster" width="80%">
