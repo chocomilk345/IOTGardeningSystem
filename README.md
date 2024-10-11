@@ -1,4 +1,6 @@
 # IOTGardeningSystem mini-project
+AIoT 기술을 활용한 홈가드닝 자동화 시스템
+
 ## Team members
 1. 김윤우
 2. 이지원
