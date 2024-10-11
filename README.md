@@ -20,6 +20,6 @@
 2. Raspberry에서 iot_client_sensor 구동
 
 ## Result
-- 원격 water pump 작동 제어
+- 원격으로 water pump 작동 제어
 - Database에 센서(조도, 온/습도, 토양습도, 토양습도)정보 update
 - Apache Server를 통해 web에서 정보 확인
