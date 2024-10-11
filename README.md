@@ -9,7 +9,7 @@
    - 원격 모니터링, 원격 제어
 2. AIoT 기술을 활용하여 자동화 및 최적의 재배 환경 제공
 
-## Developemnt environment
+## Developemnt Environment
 <img src="env.png" alt="poster" width="80%">
 
 ## System FlowChart
