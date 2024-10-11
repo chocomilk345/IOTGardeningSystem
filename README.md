@@ -1,13 +1,13 @@
 # IOTGardeningSystem mini-project
 ## Team members
-1. ±èÀ±¿ì
-2. ÀÌÁö¿ø
+1. ê¹€ìœ¤ìš°
+2. ì´ì§€ì›
 
 ## Purpose
-1. °¡µ¿È­µÈ È¨°¡µå´× ½Ã½ºÅÛ 
-   - Á¶µµ, ¿Â/½Àµµ, Åä¾ç½Àµµ È®ÀÎ
-   - ¿ø°İ ¸ğ´ÏÅÍ¸µ, ¿ø°İ Á¦¾î
-2. AIoT ±â¼úÀ» È°¿ëÇÏ¿© ÀÚµ¿È­ ¹× ÃÖÀûÀÇ Àç¹è È¯°æ Á¦°ø
+1. ìë™í™”ëœ í™ˆê°€ë“œë‹ ì‹œìŠ¤í…œ 
+   - ì¡°ë„, ì˜¨/ìŠµë„, í† ì–‘ìŠµë„ í™•ì¸
+   - ì›ê²© ëª¨ë‹ˆí„°ë§, ì›ê²© ì œì–´
+2. AIoT ê¸°ìˆ ì„ í™œìš©í•˜ì—¬ ìë™í™” ë° ìµœì ì˜ ì¬ë°° í™˜ê²½ ì œê³µ
 
 ## Developemnt environment
 <img src="env.png" alt="poster" width="80%">
@@ -16,10 +16,10 @@
 <img src="flowchart.png" alt="poster" width="80%">
 
 ## How to Run
-1. Raspberry¿¡¼­ iot_server ±¸µ¿
-2. Raspberry¿¡¼­ iot_client_sensor ±¸µ¿
+1. Raspberryì—ì„œ iot_server êµ¬ë™
+2. Raspberryì—ì„œ iot_client_sensor êµ¬ë™
 
 ## Result
-- ¿ø°İ water pump ÀÛµ¿ Á¦¾î
-- Database¿¡ ¼¾¼­(Á¶µµ, ¿Â/½Àµµ, Åä¾ç½Àµµ, Åä¾ç½Àµµ)Á¤º¸ update
-- Apache Server¸¦ ÅëÇØ web¿¡¼­ Á¤º¸ È®ÀÎ
+- ì›ê²© water pump ì‘ë™ ì œì–´
+- Databaseì— ì„¼ì„œ(ì¡°ë„, ì˜¨/ìŠµë„, í† ì–‘ìŠµë„, í† ì–‘ìŠµë„)ì •ë³´ update
+- Apache Serverë¥¼ í†µí•´ webì—ì„œ ì •ë³´ í™•ì¸
