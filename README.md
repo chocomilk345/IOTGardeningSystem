@@ -11,7 +11,7 @@ IoT 기술을 활용한 홈가드닝 자동화 시스템
    - 원격 모니터링, 원격 제어
 2. IoT 기술을 활용하여 자동화 및 최적의 재배 환경 제공
 
-## Developemnt Environment
+## Development Environment
 <img src="env.png" alt="poster" width="80%">
 
 ## System FlowChart
